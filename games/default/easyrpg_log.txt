@@ -1,0 +1,1349 @@
+[2024-12-01 22:11:40] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-01 22:11:40] Debug: lcf (Debug): 01 01 00 
+[2024-12-01 22:11:40] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-12-01 22:11:40] Debug: Game and Save Directory:
+[2024-12-01 22:11:40] Debug: 1: [Native] 
+[2024-12-01 22:11:40] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-01 22:11:40] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-01 22:11:40] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-01 22:11:40] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-01 22:11:40] Debug: lcf (Debug): 21 
+[2024-12-01 22:11:40] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-01 22:11:40] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-01 22:11:40] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-01 22:11:40] Debug: lcf (Debug): 01 01 00 
+[2024-12-01 22:11:40] Debug: Loading game yn-hub
+[2024-12-01 22:11:40] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-01 22:11:40] Debug: EXEReader: BITMAP not found.
+[2024-12-01 22:11:40] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-12-01 22:11:40] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-12-01 22:11:40] Debug: RTP is "Official English" (675/675)
+[2024-12-01 22:11:40] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-12-01 22:11:40] Debug: Patch configuration: EasyRPG, Maniac Patch (2)
+[2024-12-01 22:11:40] Debug: Cannot find: Font/Font
+[2024-12-01 22:11:40] Debug: Cannot find: Font/Font2
+[2024-12-01 22:11:40] Debug: Cannot find: Logo/LOGO1
+[2024-12-01 22:11:40] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-01 22:11:40] Debug: Resolution changed to 320x240
+[2024-12-01 22:11:40] Debug: Loaded Map Map0001.lmu
+[2024-12-01 22:11:40] Debug: Tree: MAP0001
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 500
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 500
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 1000
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 1000
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 1500
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 1500
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 2000
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 2000
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 2500
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 2500
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 3000
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 3000
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 3500
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 3500
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 4000
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 4000
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 4500
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 4500
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 5000
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 5000
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 5500
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 5500
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 6000
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 6000
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 6500
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 6500
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 7000
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 7000
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 7500
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 7500
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 8000
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 8000
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 8500
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 8500
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 9000
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 9000
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 9500
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 9500
+[2024-12-01 22:11:42] Debug: Loaded Map Map0002.lmu
+[2024-12-01 22:11:42] Warning: Unknown event with id 10000
+[2024-12-01 22:11:42] Warning: CallEvent: Can't call non-existent event 10000
+[2024-12-01 22:12:11] Debug: EasyRPG Player 0.8 git+599@edec5383 (2024-12-01) started
+[2024-12-01 22:12:11] Debug: ========================================================
+[2024-12-01 22:12:11] Debug: CLI: TestPlay HideTitle Window 
+[2024-12-01 22:12:11] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-12-01 22:12:11] Debug: Seeded the RNG with 1733101930.
+[2024-12-01 22:12:11] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-12-01 22:12:11] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-12-01 22:12:11] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-12-01 22:12:11] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-01 22:12:11] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-01 22:12:11] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-01 22:12:11] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-01 22:12:11] Debug: lcf (Debug): 21 
+[2024-12-01 22:12:11] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-01 22:12:11] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-01 22:12:11] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-01 22:12:11] Debug: lcf (Debug): 01 01 00 
+[2024-12-01 22:12:11] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-12-01 22:12:11] Debug: Game and Save Directory:
+[2024-12-01 22:12:11] Debug: 1: [Native] 
+[2024-12-01 22:12:11] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-01 22:12:11] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-01 22:12:11] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-01 22:12:11] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-01 22:12:11] Debug: lcf (Debug): 21 
+[2024-12-01 22:12:11] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-01 22:12:11] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-01 22:12:11] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-01 22:12:11] Debug: lcf (Debug): 01 01 00 
+[2024-12-01 22:12:11] Debug: Loading game yn-hub
+[2024-12-01 22:12:11] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-01 22:12:11] Debug: EXEReader: BITMAP not found.
+[2024-12-01 22:12:11] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-12-01 22:12:11] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-12-01 22:12:11] Debug: RTP is "Official English" (675/675)
+[2024-12-01 22:12:11] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-12-01 22:12:11] Debug: Patch configuration: EasyRPG, Maniac Patch (2)
+[2024-12-01 22:12:11] Debug: Cannot find: Font/Font
+[2024-12-01 22:12:11] Debug: Cannot find: Font/Font2
+[2024-12-01 22:12:11] Debug: Cannot find: Logo/LOGO1
+[2024-12-01 22:12:11] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-01 22:12:11] Debug: Resolution changed to 320x240
+[2024-12-01 22:12:11] Debug: Loaded Map Map0001.lmu
+[2024-12-01 22:12:11] Debug: Tree: MAP0001
+[2024-12-01 22:12:13] Debug: Loaded Map Map0002.lmu
+[2024-12-01 23:09:04] Debug: EasyRPG Player 0.8 git+599@edec5383 (2024-12-01) started
+[2024-12-01 23:09:04] Debug: ========================================================
+[2024-12-01 23:09:04] Debug: CLI: TestPlay HideTitle Window 
+[2024-12-01 23:09:04] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-12-01 23:09:04] Debug: Seeded the RNG with 1733105344.
+[2024-12-01 23:09:04] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-12-01 23:09:04] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-12-01 23:09:04] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-12-01 23:09:04] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-01 23:09:04] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-01 23:09:04] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-01 23:09:04] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-01 23:09:04] Debug: lcf (Debug): 21 
+[2024-12-01 23:09:04] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-01 23:09:04] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-01 23:09:04] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-01 23:09:04] Debug: lcf (Debug): 01 01 00 
+[2024-12-01 23:09:04] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-12-01 23:09:04] Debug: Game and Save Directory:
+[2024-12-01 23:09:04] Debug: 1: [Native] 
+[2024-12-01 23:09:04] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-01 23:09:04] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-01 23:09:04] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-01 23:09:04] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-01 23:09:04] Debug: lcf (Debug): 21 
+[2024-12-01 23:09:04] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-01 23:09:04] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-01 23:09:04] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-01 23:09:04] Debug: lcf (Debug): 01 01 00 
+[2024-12-01 23:09:04] Debug: Loading game yn-hub
+[2024-12-01 23:09:04] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-01 23:09:04] Debug: EXEReader: BITMAP not found.
+[2024-12-01 23:09:04] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-12-01 23:09:04] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-12-01 23:09:05] Debug: RTP is "Official English" (675/675)
+[2024-12-01 23:09:05] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-12-01 23:09:05] Debug: Patch configuration: EasyRPG, Maniac Patch (2)
+[2024-12-01 23:09:05] Debug: Cannot find: Font/Font
+[2024-12-01 23:09:05] Debug: Cannot find: Font/Font2
+[2024-12-01 23:09:05] Debug: Cannot find: Logo/LOGO1
+[2024-12-01 23:09:05] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-01 23:09:05] Debug: Resolution changed to 320x240
+[2024-12-01 23:09:05] Debug: Loaded Map Map0001.lmu
+[2024-12-01 23:09:05] Debug: Tree: MAP0001
+[2024-12-01 23:09:07] Debug: Loaded Map Map0002.lmu
+[2024-12-01 23:09:07] Debug: Loaded Map Map0002.lmu [20x]
+[2024-12-01 23:09:07] Debug: Cannot find: CharSet/t[4]
+[2024-12-01 23:09:07] Warning: Image not found: CharSet/t[4]
+[2024-12-02 04:48:05] Debug: EasyRPG Player 0.8 git+599@edec5383 (2024-12-01) started
+[2024-12-02 04:48:05] Debug: ========================================================
+[2024-12-02 04:48:05] Debug: CLI: TestPlay HideTitle Window 
+[2024-12-02 04:48:05] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-12-02 04:48:05] Debug: Seeded the RNG with 1733125684.
+[2024-12-02 04:48:05] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-12-02 04:48:05] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-12-02 04:48:05] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-12-02 04:48:05] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-02 04:48:05] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-02 04:48:05] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-02 04:48:05] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-02 04:48:05] Debug: lcf (Debug): 21 
+[2024-12-02 04:48:05] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-02 04:48:05] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-02 04:48:05] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-02 04:48:05] Debug: lcf (Debug): 01 01 00 
+[2024-12-02 04:48:05] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-12-02 04:48:05] Debug: Game and Save Directory:
+[2024-12-02 04:48:05] Debug: 1: [Native] 
+[2024-12-02 04:48:05] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-02 04:48:05] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-02 04:48:05] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-02 04:48:05] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-02 04:48:05] Debug: lcf (Debug): 21 
+[2024-12-02 04:48:05] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-02 04:48:05] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-02 04:48:05] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-02 04:48:05] Debug: lcf (Debug): 01 01 00 
+[2024-12-02 04:48:05] Debug: Loading game yn-hub
+[2024-12-02 04:48:05] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-02 04:48:05] Debug: EXEReader: BITMAP not found.
+[2024-12-02 04:48:05] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-12-02 04:48:05] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-12-02 04:48:05] Debug: RTP is "Official English" (675/675)
+[2024-12-02 04:48:05] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-12-02 04:48:05] Debug: Patch configuration: EasyRPG, Maniac Patch (2)
+[2024-12-02 04:48:05] Debug: Cannot find: Font/Font
+[2024-12-02 04:48:05] Debug: Cannot find: Font/Font2
+[2024-12-02 04:48:05] Debug: Cannot find: Logo/LOGO1
+[2024-12-02 04:48:05] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-02 04:48:06] Debug: Resolution changed to 320x240
+[2024-12-02 04:48:06] Debug: Loaded Map Map0001.lmu
+[2024-12-02 04:48:06] Debug: Tree: MAP0001
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 04:48:08] Debug: Loaded Map Map0002.lmu
+[2024-12-02 04:48:08] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:28] Debug: EasyRPG Player 0.8 git+599@edec5383 (2024-12-01) started
+[2024-12-02 05:32:28] Debug: ========================================================
+[2024-12-02 05:32:28] Debug: CLI: TestPlay HideTitle Window 
+[2024-12-02 05:32:28] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-12-02 05:32:28] Debug: Seeded the RNG with 1733128348.
+[2024-12-02 05:32:28] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-12-02 05:32:28] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-12-02 05:32:28] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-12-02 05:32:28] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-02 05:32:28] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-02 05:32:28] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-02 05:32:28] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-02 05:32:28] Debug: lcf (Debug): 21 
+[2024-12-02 05:32:28] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-02 05:32:28] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-02 05:32:28] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-02 05:32:28] Debug: lcf (Debug): 01 01 00 
+[2024-12-02 05:32:28] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-12-02 05:32:28] Debug: Game and Save Directory:
+[2024-12-02 05:32:28] Debug: 1: [Native] 
+[2024-12-02 05:32:28] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-02 05:32:28] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-02 05:32:28] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-02 05:32:28] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-02 05:32:28] Debug: lcf (Debug): 21 
+[2024-12-02 05:32:28] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-02 05:32:28] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-02 05:32:28] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-02 05:32:28] Debug: lcf (Debug): 01 01 00 
+[2024-12-02 05:32:28] Debug: Loading game yn-hub
+[2024-12-02 05:32:28] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-02 05:32:28] Debug: EXEReader: BITMAP not found.
+[2024-12-02 05:32:28] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-12-02 05:32:28] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-12-02 05:32:28] Debug: RTP is "Official English" (675/675)
+[2024-12-02 05:32:28] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-12-02 05:32:28] Debug: Patch configuration: EasyRPG, Maniac Patch (2)
+[2024-12-02 05:32:28] Debug: Cannot find: Font/Font
+[2024-12-02 05:32:28] Debug: Cannot find: Font/Font2
+[2024-12-02 05:32:28] Debug: Cannot find: Logo/LOGO1
+[2024-12-02 05:32:28] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-02 05:32:29] Debug: Resolution changed to 320x240
+[2024-12-02 05:32:29] Debug: Loaded Map Map0001.lmu
+[2024-12-02 05:32:29] Debug: Tree: MAP0001
+[2024-12-02 05:32:31] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:32:32] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:32:32] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:36] Debug: EasyRPG Player 0.8 git+599@edec5383 (2024-12-01) started
+[2024-12-02 05:38:36] Debug: ========================================================
+[2024-12-02 05:38:36] Debug: CLI: TestPlay HideTitle Window 
+[2024-12-02 05:38:36] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-12-02 05:38:36] Debug: Seeded the RNG with 1733128715.
+[2024-12-02 05:38:36] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-12-02 05:38:36] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-12-02 05:38:36] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-12-02 05:38:36] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-02 05:38:36] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-02 05:38:36] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-02 05:38:36] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-02 05:38:36] Debug: lcf (Debug): 21 
+[2024-12-02 05:38:36] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-02 05:38:36] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-02 05:38:36] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-02 05:38:36] Debug: lcf (Debug): 01 01 00 
+[2024-12-02 05:38:36] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-12-02 05:38:36] Debug: Game and Save Directory:
+[2024-12-02 05:38:36] Debug: 1: [Native] 
+[2024-12-02 05:38:36] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-02 05:38:36] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-02 05:38:36] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-02 05:38:36] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-02 05:38:36] Debug: lcf (Debug): 21 
+[2024-12-02 05:38:36] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-02 05:38:36] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-02 05:38:36] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-02 05:38:36] Debug: lcf (Debug): 01 01 00 
+[2024-12-02 05:38:36] Debug: Loading game yn-hub
+[2024-12-02 05:38:36] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-02 05:38:36] Debug: EXEReader: BITMAP not found.
+[2024-12-02 05:38:36] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-12-02 05:38:36] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-12-02 05:38:36] Debug: RTP is "Official English" (675/675)
+[2024-12-02 05:38:36] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-12-02 05:38:36] Debug: Patch configuration: EasyRPG, Maniac Patch (2)
+[2024-12-02 05:38:36] Debug: Cannot find: Font/Font
+[2024-12-02 05:38:36] Debug: Cannot find: Font/Font2
+[2024-12-02 05:38:36] Debug: Cannot find: Logo/LOGO1
+[2024-12-02 05:38:36] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-02 05:38:36] Debug: Resolution changed to 320x240
+[2024-12-02 05:38:36] Debug: Loaded Map Map0001.lmu
+[2024-12-02 05:38:36] Debug: Tree: MAP0001
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:38:38] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:38:38] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:22] Debug: EasyRPG Player 0.8 git+599@edec5383 (2024-12-01) started
+[2024-12-02 05:52:22] Debug: ========================================================
+[2024-12-02 05:52:22] Debug: CLI: TestPlay HideTitle Window 
+[2024-12-02 05:52:22] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-12-02 05:52:22] Debug: Seeded the RNG with 1733129541.
+[2024-12-02 05:52:22] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-12-02 05:52:22] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-12-02 05:52:22] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-12-02 05:52:22] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-02 05:52:22] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-02 05:52:22] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-02 05:52:22] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-02 05:52:22] Debug: lcf (Debug): 21 
+[2024-12-02 05:52:22] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-02 05:52:22] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-02 05:52:22] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-02 05:52:22] Debug: lcf (Debug): 01 01 00 
+[2024-12-02 05:52:22] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-12-02 05:52:22] Debug: Game and Save Directory:
+[2024-12-02 05:52:22] Debug: 1: [Native] 
+[2024-12-02 05:52:22] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-02 05:52:22] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-02 05:52:22] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-02 05:52:22] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-02 05:52:22] Debug: lcf (Debug): 21 
+[2024-12-02 05:52:22] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-02 05:52:22] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-02 05:52:22] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-02 05:52:22] Debug: lcf (Debug): 01 01 00 
+[2024-12-02 05:52:22] Debug: Loading game yn-hub
+[2024-12-02 05:52:22] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-02 05:52:22] Debug: EXEReader: BITMAP not found.
+[2024-12-02 05:52:22] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-12-02 05:52:22] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-12-02 05:52:22] Debug: RTP is "Official English" (675/675)
+[2024-12-02 05:52:22] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-12-02 05:52:22] Debug: Patch configuration: EasyRPG, Maniac Patch (2)
+[2024-12-02 05:52:22] Debug: Cannot find: Font/Font
+[2024-12-02 05:52:22] Debug: Cannot find: Font/Font2
+[2024-12-02 05:52:22] Debug: Cannot find: Logo/LOGO1
+[2024-12-02 05:52:22] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-02 05:52:22] Debug: Resolution changed to 320x240
+[2024-12-02 05:52:22] Debug: Loaded Map Map0001.lmu
+[2024-12-02 05:52:22] Debug: Tree: MAP0001
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:52:25] Debug: Loaded Map Map0002.lmu
+[2024-12-02 05:52:25] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 05:53:37] Debug: libpng: iCCP: known incorrect sRGB profile
+[2024-12-02 05:55:21] Debug: Event 5 exceeded execution limit
+[2024-12-02 07:50:31] Debug: EasyRPG Player 0.8 git+599@edec5383 (2024-12-01) started
+[2024-12-02 07:50:31] Debug: ========================================================
+[2024-12-02 07:50:31] Debug: CLI: TestPlay HideTitle Window 
+[2024-12-02 07:50:31] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-12-02 07:50:31] Debug: Seeded the RNG with 1733136631.
+[2024-12-02 07:50:31] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-12-02 07:50:31] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-12-02 07:50:31] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-12-02 07:50:31] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-02 07:50:31] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-02 07:50:31] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-02 07:50:31] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-02 07:50:31] Debug: lcf (Debug): 21 
+[2024-12-02 07:50:31] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-02 07:50:31] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-02 07:50:31] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-02 07:50:31] Debug: lcf (Debug): 01 01 00 
+[2024-12-02 07:50:31] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-12-02 07:50:31] Debug: Game and Save Directory:
+[2024-12-02 07:50:31] Debug: 1: [Native] 
+[2024-12-02 07:50:31] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-02 07:50:31] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-02 07:50:31] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-02 07:50:31] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-02 07:50:31] Debug: lcf (Debug): 21 
+[2024-12-02 07:50:31] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-02 07:50:31] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-02 07:50:31] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-02 07:50:31] Debug: lcf (Debug): 01 01 00 
+[2024-12-02 07:50:31] Debug: Loading game yn-hub
+[2024-12-02 07:50:31] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-02 07:50:31] Debug: EXEReader: BITMAP not found.
+[2024-12-02 07:50:31] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-12-02 07:50:31] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-12-02 07:50:32] Debug: RTP is "Official English" (675/675)
+[2024-12-02 07:50:32] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-12-02 07:50:32] Debug: Patch configuration: EasyRPG, Maniac Patch (2)
+[2024-12-02 07:50:32] Debug: Cannot find: Font/Font
+[2024-12-02 07:50:32] Debug: Cannot find: Font/Font2
+[2024-12-02 07:50:32] Debug: Cannot find: Logo/LOGO1
+[2024-12-02 07:50:32] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-02 07:50:32] Debug: Resolution changed to 320x240
+[2024-12-02 07:50:32] Debug: Loaded Map Map0001.lmu
+[2024-12-02 07:50:32] Debug: Tree: MAP0001
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:50:34] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:50:34] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:56:57] Debug: EasyRPG Player 0.8 git+599@edec5383 (2024-12-01) started
+[2024-12-02 07:56:57] Debug: ========================================================
+[2024-12-02 07:56:57] Debug: CLI: TestPlay HideTitle Window 
+[2024-12-02 07:56:57] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-12-02 07:56:57] Debug: Seeded the RNG with 1733137016.
+[2024-12-02 07:56:57] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-12-02 07:56:57] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-12-02 07:56:57] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-12-02 07:56:57] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-02 07:56:57] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-02 07:56:57] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-02 07:56:57] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-02 07:56:57] Debug: lcf (Debug): 21 
+[2024-12-02 07:56:57] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-02 07:56:57] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-02 07:56:57] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-02 07:56:57] Debug: lcf (Debug): 01 01 00 
+[2024-12-02 07:56:57] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-12-02 07:56:57] Debug: Game and Save Directory:
+[2024-12-02 07:56:57] Debug: 1: [Native] 
+[2024-12-02 07:56:57] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-02 07:56:57] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-02 07:56:57] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-02 07:56:57] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-02 07:56:57] Debug: lcf (Debug): 21 
+[2024-12-02 07:56:57] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-02 07:56:57] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-02 07:56:57] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-02 07:56:57] Debug: lcf (Debug): 01 01 00 
+[2024-12-02 07:56:57] Debug: Loading game yn-hub
+[2024-12-02 07:56:57] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-02 07:56:57] Debug: EXEReader: BITMAP not found.
+[2024-12-02 07:56:57] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-12-02 07:56:57] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-12-02 07:56:57] Debug: RTP is "Official English" (675/675)
+[2024-12-02 07:56:57] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-12-02 07:56:57] Debug: Patch configuration: EasyRPG, Maniac Patch (2)
+[2024-12-02 07:56:57] Debug: Cannot find: Font/Font
+[2024-12-02 07:56:57] Debug: Cannot find: Font/Font2
+[2024-12-02 07:56:57] Debug: Cannot find: Logo/LOGO1
+[2024-12-02 07:56:57] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-02 07:56:57] Debug: Resolution changed to 320x240
+[2024-12-02 07:56:57] Debug: Loaded Map Map0001.lmu
+[2024-12-02 07:56:57] Debug: Tree: MAP0001
+[2024-12-02 07:56:59] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 07:57:00] Debug: Loaded Map Map0002.lmu
+[2024-12-02 07:57:00] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)
+[2024-12-02 08:54:27] Debug: EasyRPG Player 0.8 git+599@edec5383 (2024-12-01) started
+[2024-12-02 08:54:27] Debug: ========================================================
+[2024-12-02 08:54:27] Debug: CLI: TestPlay HideTitle Window 
+[2024-12-02 08:54:27] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-12-02 08:54:27] Debug: Seeded the RNG with 1733140466.
+[2024-12-02 08:54:27] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-12-02 08:54:27] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-12-02 08:54:27] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-12-02 08:54:27] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-02 08:54:27] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-02 08:54:27] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-02 08:54:27] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-02 08:54:27] Debug: lcf (Debug): 21 
+[2024-12-02 08:54:27] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-02 08:54:27] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-02 08:54:27] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-02 08:54:27] Debug: lcf (Debug): 01 01 00 
+[2024-12-02 08:54:27] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-12-02 08:54:27] Debug: Game and Save Directory:
+[2024-12-02 08:54:27] Debug: 1: [Native] 
+[2024-12-02 08:54:27] Debug: lcf (Debug): Skipped Chunk A1 (0 byte) in lcf at 1257 (Terms)
+[2024-12-02 08:54:27] Debug: lcf (Debug): Skipped Chunk A2 (0 byte) in lcf at 125A (Terms)
+[2024-12-02 08:54:27] Debug: lcf (Debug): Skipped Chunk A3 (0 byte) in lcf at 125D (Terms)
+[2024-12-02 08:54:27] Debug: lcf (Debug): Skipped Chunk A4 (1 byte) in lcf at 1260 (Terms)
+[2024-12-02 08:54:27] Debug: lcf (Debug): 21 
+[2024-12-02 08:54:27] Debug: lcf (Debug): Skipped Chunk A5 (0 byte) in lcf at 1264 (Terms)
+[2024-12-02 08:54:27] Debug: lcf (Debug): Skipped Chunk A6 (0 byte) in lcf at 1267 (Terms)
+[2024-12-02 08:54:27] Debug: lcf (Debug): Skipped Chunk 21 (3 byte) in lcf at 1F4E (Database)
+[2024-12-02 08:54:27] Debug: lcf (Debug): 01 01 00 
+[2024-12-02 08:54:27] Debug: Loading game yn-hub
+[2024-12-02 08:54:27] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-02 08:54:27] Debug: EXEReader: BITMAP not found.
+[2024-12-02 08:54:27] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-12-02 08:54:27] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-12-02 08:54:27] Debug: RTP is "Official English" (675/675)
+[2024-12-02 08:54:27] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-12-02 08:54:27] Debug: Patch configuration: EasyRPG, Maniac Patch (2)
+[2024-12-02 08:54:27] Debug: Cannot find: Font/Font
+[2024-12-02 08:54:27] Debug: Cannot find: Font/Font2
+[2024-12-02 08:54:27] Debug: Cannot find: Logo/LOGO1
+[2024-12-02 08:54:27] Debug: EXEReader: Machine type is not i386 (0x8664)
+[2024-12-02 08:54:27] Debug: Resolution changed to 320x240
+[2024-12-02 08:54:27] Debug: Loaded Map Map0001.lmu
+[2024-12-02 08:54:27] Debug: Tree: MAP0001
+[2024-12-02 08:54:29] Debug: Image size out of bounds: CharSet/Actor1 (288x256 < 72x128 < 288x256)

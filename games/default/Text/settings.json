@@ -1,0 +1,33 @@
+{
+    "gameIds": [
+        "unconscious",
+        "yume",
+        "2kki",
+        "flow",
+        "unevendream",
+        "deepdreams",
+        "prayers",
+        "someday",
+        "amillusion",
+        "braingirl",
+        "muma",
+        "genie",
+        "mikan",
+        "ultraviolet",
+        "sheawaits",
+        "oversomnia",
+        "tsushin",
+        "nostalgic",
+        "oneshot",
+        "if",
+        "unaccomplished"
+      ],
+
+      "rootURL":"https://ynoproject.net/",
+      
+      "imgURLs":{
+        "doors_closed": "/images/door_",
+        "doors_open": "/images/door_open_",
+        "logos":"/images/logo_"
+      }
+}
