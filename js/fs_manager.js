@@ -273,7 +273,6 @@ let isInitialized = false;
 let isProcessingAction = false;
 
 async function initFS() {
-    const gameId = "2kki";
 
     try {
 
@@ -289,9 +288,7 @@ async function initFS() {
                 console.error('Failed to update stats:', error);
             });
 
-        // Update player counts for specific game
-        const playerCounts = await updatePlayerCounts(gameId);
-        console.log('Player counts:', playerCounts);
+
 
         // Initialize current_action.txt
         await initializeCurrentAction();
