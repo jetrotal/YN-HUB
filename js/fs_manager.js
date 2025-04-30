@@ -241,8 +241,146 @@ async function updateAllPlayerCounts(gameStats) {
     }
 }
 
+/**
+ * Extracts filename and extension from a File object.
+ *
+ * @param {File} file - The uploaded file object.
+ * @param {string} [defaultName='uploaded_file'] - The default filename if no name is found.
+ * @returns {{ filename: string, extension: string }} An object containing the filename and extension.
+ */
+function getFileInfo(file, defaultName = 'uploaded_file') {
+    let filename = defaultName;
+    let extension = '';
+
+    if (file && file.name) {
+        const nameParts = file.name.split('.');
+        if (nameParts.length > 1) {
+            extension = nameParts.pop().toLowerCase(); // Extract extension
+            filename = nameParts.join('.'); // Join remaining parts as filename
+        } else {
+            filename = nameParts[0]; // If no extension, use the entire name as filename
+        }
+    }
+
+    return { filename, extension };
+}
+
+/**
+ * Reads the content of a File object as an ArrayBuffer.
+ *
+ * @param {File} file - The file to read.
+ * @returns {Promise<ArrayBuffer>} A promise that resolves with the ArrayBuffer data.
+ * @throws {Error} If the file cannot be read or converted.
+ */
+async function readFileAsArrayBuffer(file) {
+    return new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onload = async readEvent => {
+            try {
+                const base64data = readEvent.target.result;
+                const base64Response = await fetch(base64data);
+                const blob = await base64Response.blob();
+                const buffer = await blob.arrayBuffer();
+                resolve(buffer);
+            } catch (error) {
+                reject(new Error('Failed to convert file to ArrayBuffer: ' + error.message));
+            }
+        };
+        reader.onerror = error => {
+            reject(new Error('Failed to read file: ' + error.message));
+        };
+        reader.readAsDataURL(file);
+    });
+}
+
+/**
+ * Saves the provided ArrayBuffer data to the specified file path using the FileSystem.
+ *
+ * @param {FileSystem} fs - The FileSystem instance.
+ * @param {string} filePath - The full path where the file should be saved.
+ * @param {ArrayBuffer} buffer - The ArrayBuffer data to save.
+ * @returns {Promise<void>} A promise that resolves when the file is saved and synced.
+ * @throws {Error} If there's an error during saving or syncing.
+ */
+async function storeFile(fs, filePath, buffer) {
+    try {
+        const byteArray = new Uint8Array(buffer);
+        await fs.writeFile(filePath, byteArray);
+
+        // Return a promise that resolves when sync is complete
+        return new Promise((resolve, reject) => {
+            if (easyrpgPlayer && easyrpgPlayer.FS) {
+                easyrpgPlayer.FS.syncfs(true, (err) => {
+                    if (err) {
+                        console.error('Error syncing filesystem:', err);
+                        reject(new Error('Failed to sync filesystem: ' + err.message));
+                    } else {
+                        console.log(`File saved and synced successfully to: ${filePath}`);
+                        resolve();
+                    }
+                });
+            } else {
+                console.warn('easyrpgPlayer.FS not found, skipping sync');
+                resolve();
+            }
+        });
+    } catch (error) {
+        console.error('Error saving file:', error);
+        throw new Error('Failed to save file: ' + error.message);
+    }
+}
+
+/**
+ * Prompts the user to upload a file and returns the selected File object.
+ *
+ * @param {string} [accept='*'] - The accepted MIME types for the file input.
+ * @returns {Promise<File>} A promise that resolves with the File object when selected,
+ * or rejects if no file is selected or if there's an error.
+ */
+async function uploadFile(accept = '*') {
+    return new Promise((resolve, reject) => {
+        const input = document.createElement('input');
+        input.type = 'file';
+        input.accept = accept;
+        input.onchange = e => {
+            const file = e.target.files[0];
+            if (file) {
+                resolve(file);
+            } else {
+                reject(new Error('No file selected'));
+            }
+        };
+        input.click(); // Programmatically trigger the file selection dialog
+    });
+}
+
+/**
+ * Orchestrates the file upload and storage process with WASM filesystem sync.
+ *
+ * @param {FileSystem} fs - The FileSystem instance to use for storing the file.
+ * @param {string} [basePath='/easyrpg/Picture'] - The base directory to store the file.
+ * @param {string} [accept='*'] - The accepted file types for upload.
+ * @returns {Promise<string>} A promise that resolves with the full path of the saved file.
+ * @throws {Error} If there is an error during the upload, storage, or sync process.
+ */
+async function uploadAndStoreFile(fs, basePath = '/easyrpg/Picture', accept = '*') {
+    try {
+        const file = await uploadFile(accept);
+        const { filename, extension } = getFileInfo(file);
+        const filePath = `${basePath}/${filename}${extension ? '.' + extension : ''}`;
+        const buffer = await readFileAsArrayBuffer(file);
+        await storeFile(fs, filePath, buffer);
+        return filePath;
+    } catch (error) {
+        console.error('Error in upload and store process:', error);
+        throw new Error('Upload and store failed: ' + error.message);
+    }
+}
+
+
 // Usage:
 const gameStats = {
+    "unconscious":0,
     "yume": 0,
     "2kki": 0,
     "flow": 0,
